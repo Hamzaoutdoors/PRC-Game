@@ -18,7 +18,7 @@ here we try to build this game witH Javascrit ES6 to make some new feature to ou
 - Use images and backgrounds to enhance the look of the website.
 
 
-## Live Demo
+## Version Live 
 
 [Live Demo Link](https://hamzaoutdoors.github.io/PRC-Game//)
 
