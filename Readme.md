@@ -1,8 +1,17 @@
 [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
+
 # Rock, Paper & Scissors Game 
 
-
-![PRC](https://user-images.githubusercontent.com/80895497/126082957-6ac12260-8fa6-4264-bcdd-ea372aa57c0f.PNG)
+ </br>
+ <div align="center">
+  <em align="center">" Life doesn't have a ctrl-z. Type wisely. "</em><strong> - anonymous</strong>
+  </div>
+ </br>
+ 
+ <div align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/80895497/126082957-6ac12260-8fa6-4264-bcdd-ea372aa57c0f.PNG" Time is more valuable than money. You can get more money, but you cannot get more time/>
+  </div>
+ </br>
 
 
 
